@@ -1,4 +1,4 @@
-# DOT-by-Limewire
+# Project-DOT-by-Limewire
 A dox organization tool, written by Limewire in Python.
  
 Before you use this, I would like to thank my close friend and partner in crime Pascal for helping me through this.
