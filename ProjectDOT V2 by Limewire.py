@@ -4,7 +4,7 @@ from google import *
 from datetime import datetime
 from time import sleep
 
-count = 0
+count = 1
 now = datetime.now()
 
 current_time = now.strftime("%H:%M:%S")   
