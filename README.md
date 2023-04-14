@@ -7,7 +7,7 @@ And a disclaimer: I am not responsible for what you do with this tool.
 
 This project is open-source and thus anyone can contribute to it and make it better.
 I started this project due to Drizzy's Dox Tool being compromised with the "Newtonsoft" fake update, I don't want to deal with that shit.
-You can now search usernames on here AND now you can geolocate IPs with V3 (check console). You can also automatically save your results, like Name, Address, Phone Number, IP, etc. to a .txt file.
+You can search usernames on here AND now you can geolocate IPs with V3 (check console). You can also automatically save your results, like Name, Address, Phone Number, IP, etc. to a .txt file.
 Here is a resource to find usernames if you prefer instead to use a different tool: instantusername.com
 
 V3 released! Check my github for updates.
