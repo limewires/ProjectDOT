@@ -1,7 +1,7 @@
 # ProjectDOT-by-Limewire
 A dox organization tool, written by Limewire in Python.
  
-Before you use this, I would like to thank my close friend and partner in crime Pascal for helping me through this.
+Before you use this, I would like to thank my close friend and partner in crime Pascal for helping me through V1.
 
 And a disclaimer: I am not responsible for what you do with this tool. 
 
@@ -10,7 +10,7 @@ I started this project due to Drizzy's Dox Tool being compromised with the "Newt
 You can now search usernames on here (check console) and you can automatically save your results, like Name, Address, Phone Number, IP, etc. to a .txt file.
 Here is a resource to find usernames if you prefer instead to use a different tool: instantusername.com
 
-V3 coming soon! Check my github for updates.
+V3 released! Check my github for updates.
 
 and finally; have fun.
   _    _                  _         
