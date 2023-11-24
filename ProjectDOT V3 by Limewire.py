@@ -74,7 +74,7 @@ def openWindow3(): #IP geolocation window
     IP2.grid(row=2,column=2)
 
     def response(): #Define 'response' on API request
-        print(requests.get("https://api.ipgeolocation.io/ipgeo?apiKey=713ff2238bb548129712dc705ac2f9af&ip=" + IP2.get() + "&lang=EN&fields=geo&excludes=continent_code,continent_name").json())
+        print(requests.get("https://api.ipgeolocation.io/ipgeo?apiKey=INSERTAPIKEY=" + IP2.get() + "&lang=EN&fields=geo&excludes=continent_code,continent_name").json())
 
     buttonSearch2 = Button(window3,text = "Geolocate", fg = "dark green", bg = "lime green", command = response)
     buttonSearch2.grid(row=2,column=3)
