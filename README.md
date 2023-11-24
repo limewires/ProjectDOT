@@ -10,7 +10,13 @@ I started this project due to Drizzy's Dox Tool being compromised with the "Newt
 You can search usernames on here AND now you can geolocate IPs with V3 (check console). You can also automatically save your results, like Name, Address, Phone Number, IP, etc. to a .txt file.
 Here is a resource to find usernames if you prefer instead to use a different tool: instantusername.com
 
-V3 released! Check my github for updates.
+(!) As of July, the API key provided by myself no longer works, so, to use the geolocation feature you must input your own. 
+
+1. Replace "INSERTAPIKEY" with your own key from the required site
+
+2. Run program, check key by geolocating an ip. If it returns an error, please submit a report. :)
+
+Check my github for updates.
 
 and finally; have fun.
   _    _                  _         
